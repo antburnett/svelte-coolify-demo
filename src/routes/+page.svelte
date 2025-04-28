@@ -1,7 +1,7 @@
 <script>
 	import { onMount } from 'svelte';
 	
-	let greeting = 'Hello, Coolify! This is an update! Webhook it, baby';
+	let greeting = 'Hello, Coolify! This is an update! Webhook it, baby. Now with a secret.';
 	let isDeployed = false;
 	
 	onMount(() => {
