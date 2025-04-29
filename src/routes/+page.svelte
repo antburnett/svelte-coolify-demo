@@ -1,7 +1,7 @@
 <script>
 	import { onMount } from 'svelte';
 	
-	let greeting = 'Hello, Coolify! This is an update! Using uuid.';
+	let greeting = 'Hello, Coolify! This is an update! Using uuid. Deploy permissions.';
 	let isDeployed = false;
 	
 	onMount(() => {
