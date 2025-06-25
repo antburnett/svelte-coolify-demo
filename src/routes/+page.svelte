@@ -27,6 +27,7 @@
 	  Edit <code>src/routes/+page.svelte</code> to test automatic deployments
 	</p>
 	<p>Source folder is /Documents/dev/Coolify-Testing-Deployment/svelte-coolify-demo</p>
+	<p>Changed Github webhook</p>
   </main>
   
   <style>
